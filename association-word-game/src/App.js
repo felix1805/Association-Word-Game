@@ -15,7 +15,7 @@ const App = () => {
       },
       headers: {
         'content-type': 'application/octet-stream',
-        'X-RapidAPI-Key': 'de3b4c09c3msh79a8900c4ecd7d3p1416c9jsn5170c5da93d7',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'twinword-word-association-quiz.p.rapidapi.com'
       }
     };
